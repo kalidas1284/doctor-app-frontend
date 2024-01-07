@@ -1,0 +1,45 @@
+.image{
+    width: 100%;
+    height: 850px;
+    padding: 20px;
+    background-image: url('https://th.bing.com/th/id/R.c05986e60bbd3a7e9ed7e403e06d2631?rik=ti3CKg6R2CtcZw&riu=http%3a%2f%2fwww.suyashhospitalraipur.com%2fimages%2fthemexpert%2fhome%2fhome2%2fhand-with-the-fever-instrument-PK9QJUL.jpg&ehk=CVuhyX%2fM2qKIIhuyKbWEgSKQdjoGJYofbsCkwjhBww0%3d&risl=&pid=ImgRaw&r=0');
+   z-index: -2;
+}
+.list{
+    width: 500px;
+    justify-content: center;
+    height: 50px;
+    justify-content: center;
+    align-items: center;
+}
+
+.address{
+    box-sizing: border-box;
+    box-shadow: 2px 2px 2px 2px rgb(107, 195, 227);
+    
+    margin-bottom: 60px;
+}
+
+
+
+.innerDiv{
+    box-shadow: 2px 2px 2px 2px rgb(107, 195, 227);
+    margin-top: 30px; 
+    border-radius: 50px;  
+}
+
+.outerDiv{
+    box-shadow: 2px 2px 2px 2px rgb(107, 195, 227);   
+    padding: 35px;
+    margin: 35px;   
+    margin-bottom: 60px;
+height:790px;    
+    
+}
+
+.day{
+
+    box-shadow: 2px 2px 2px 2px rgb(107, 195, 227);  
+    border-radius: 50px;
+    
+}
